@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hi I'm Xavier! 
 
-<!--
-**profxavr/profxavr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my profile! 
 
-Here are some ideas to get you started:
+## About Me 
+I am an Electrical Engineer looking to get into the field of Robotics! To that end I am currently pursuing an M.S. in Robotics at Northeastern University. Here I have gotten to work with several excellent professors including, Professor Hanumant Singh, Professor Bahram Shafai and Professor Alireaza Ramezani on a variety of topics ranging from autonomous robotics to legged robotics control. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My goals are to find a way to use my technical skills to make the world make a bit more sense!
+
+## Interests 
+- Autonomy
+- Drones
+- Mobile Robots
+- Legged Robots
+- Technical Ethics
+
+## Contact and Availability
+email: hubbard.xavier93@gmail.com
+email: hubbard.x@northeastern.edu
+email: xephyr417@alum.mit.edu
+cell: 2142237881
+
+I am looking for internships for summer 2022 as well as full-time work starting January 2023.
+
+
+
+
