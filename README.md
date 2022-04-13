@@ -3,7 +3,7 @@
 Welcome to my profile! 
 
 ## About Me 
-I am an Electrical Engineer looking to get into the field of Robotics! To that end I am currently pursuing an M.S. in Robotics at Northeastern University. Here I have gotten to work with several excellent professors including, Professor Hanumant Singh, Professor Bahram Shafai and Professor Alireaza Ramezani on a variety of topics ranging from autonomous robotics to legged robotics control. 
+I am an Electrical Engineer looking to get into the field of Robotics! To that end I am currently pursuing an M.S. in Robotics at Northeastern University. Here I have gotten to work with several excellent professors including, Professor Hanumant Singh, Professor Bahram Shafai and Professor Alireza Ramezani on a variety of topics ranging from autonomous robotics to legged robotics control. 
 
 My goals are to find a way to use my technical skills to make the world make a bit more sense!
 
